@@ -1,0 +1,97 @@
+2020-10-08 10:00:41,962 DEBUG: fetched: []
+2020-10-08 10:00:41,965 DEBUG: Path '.dvc\cache\12\c1f0e42231188e24888d93b8daa9fa' inode '2526196751533720076'
+2020-10-08 10:00:41,967 DEBUG: fetched: []
+2020-10-08 10:00:41,969 DEBUG: Assuming 'C:\JenkinsSlave\A\.dvc\cache\79\cbacf37c673a000f9755302a553ea3' is unchanged since it is read-only
+2020-10-08 10:00:41,974 DEBUG: Skipping copying for 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\image.lst', since it is not a symlink or a hardlink.
+2020-10-08 10:00:41,980 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\image.lst' inode '2278235484696760318'
+2020-10-08 10:00:41,981 DEBUG: fetched: []
+2020-10-08 10:00:41,985 DEBUG: Path '.dvc\cache\79\cbacf37c673a000f9755302a553ea3' inode '2030273606839367069'
+2020-10-08 10:00:41,986 DEBUG: fetched: [('1271327127843749888', '94', '79cbacf37c673a000f9755302a553ea3', '1602122441615692800')]
+2020-10-08 10:00:41,989 DEBUG: cache 'C:\JenkinsSlave\A\.dvc\cache\16\e481447d45d89a855c3cd0a01f53c9' expected 'HashInfo(name='md5', value='16e481447d45d89a855c3cd0a01f53c9', dir_info=None)' actual 'None'
+2020-10-08 10:00:42,036 DEBUG: Created 'copy': .dvc\cache\16\e481447d45d89a855c3cd0a01f53c9 -> SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\info.log
+2020-10-08 10:00:42,040 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\info.log' inode '790469496821653003'
+2020-10-08 10:00:42,042 DEBUG: fetched: []
+2020-10-08 10:00:42,045 DEBUG: Path '.dvc\cache\16\e481447d45d89a855c3cd0a01f53c9' inode '2278235484688604975'
+2020-10-08 10:00:42,047 DEBUG: fetched: []
+2020-10-08 10:00:42,049 DEBUG: cache 'C:\JenkinsSlave\A\.dvc\cache\0b\8681998b8e8b8c5b6904dac49fd2c2' expected 'HashInfo(name='md5', value='0b8681998b8e8b8c5b6904dac49fd2c2', dir_info=None)' actual 'None'
+2020-10-08 10:00:42,091 DEBUG: Created 'copy': .dvc\cache\0b\8681998b8e8b8c5b6904dac49fd2c2 -> SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\result.txt
+2020-10-08 10:00:42,095 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\result.txt' inode '790469496823983101'
+2020-10-08 10:00:42,097 DEBUG: fetched: []
+2020-10-08 10:00:42,100 DEBUG: Path '.dvc\cache\0b\8681998b8e8b8c5b6904dac49fd2c2' inode '2278235484690935073'
+2020-10-08 10:00:42,102 DEBUG: fetched: []
+2020-10-08 10:00:42,104 DEBUG: cache 'C:\JenkinsSlave\A\.dvc\cache\d1\3f39802c47b6c4ae84504b5349ec24' expected 'HashInfo(name='md5', value='d13f39802c47b6c4ae84504b5349ec24', dir_info=None)' actual 'None'
+2020-10-08 10:00:42,158 DEBUG: Created 'copy': .dvc\cache\d1\3f39802c47b6c4ae84504b5349ec24 -> SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\result.xml
+2020-10-08 10:00:42,163 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001.ver1\result.xml' inode '790469496854274375'
+2020-10-08 10:00:42,164 DEBUG: fetched: []
+2020-10-08 10:00:42,168 DEBUG: Path '.dvc\cache\d1\3f39802c47b6c4ae84504b5349ec24' inode '2030273607031600154'
+2020-10-08 10:00:42,170 DEBUG: fetched: []
+2020-10-08 10:00:42,172 DEBUG: Assuming 'C:\JenkinsSlave\A\.dvc\cache\5a\4267ba999650e2a539e1aa0aa93951' is unchanged since it is read-only
+2020-10-08 10:00:42,180 DEBUG: Skipping copying for 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Alignment\intermed.log', since it is not a symlink or a hardlink.
+2020-10-08 10:00:42,184 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Alignment\intermed.log' inode '2112927566258757104'
+2020-10-08 10:00:42,186 DEBUG: fetched: []
+2020-10-08 10:00:42,190 DEBUG: Path '.dvc\cache\5a\4267ba999650e2a539e1aa0aa93951' inode '2278235484685109828'
+2020-10-08 10:00:42,192 DEBUG: fetched: [('1418306396703038720', '472', '5a4267ba999650e2a539e1aa0aa93951', '1602122441732696320')]
+2020-10-08 10:00:42,195 DEBUG: Assuming 'C:\JenkinsSlave\A\.dvc\cache\2d\317edf19511df8245a06c0b911b522' is unchanged since it is read-only
+2020-10-08 10:00:42,201 DEBUG: Skipping copying for 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Body\intermed.log', since it is not a symlink or a hardlink.
+2020-10-08 10:00:42,205 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Body\intermed.log' inode '2112927566261087202'
+2020-10-08 10:00:42,207 DEBUG: fetched: []
+2020-10-08 10:00:42,211 DEBUG: Path '.dvc\cache\2d\317edf19511df8245a06c0b911b522' inode '2278235484687439926'
+2020-10-08 10:00:42,212 DEBUG: fetched: [('1418306404390735360', '1197', '2d317edf19511df8245a06c0b911b522', '1602122441791696128')]
+2020-10-08 10:00:42,215 DEBUG: Assuming 'C:\JenkinsSlave\A\.dvc\cache\6d\1f2accabed54966f847b99b193897e' is unchanged since it is read-only
+2020-10-08 10:00:42,220 DEBUG: Skipping copying for 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\DBImagelist.txt', since it is not a symlink or a hardlink.
+2020-10-08 10:00:42,226 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\DBImagelist.txt' inode '459853879218353816'
+2020-10-08 10:00:42,228 DEBUG: fetched: []
+2020-10-08 10:00:42,232 DEBUG: Path '.dvc\cache\6d\1f2accabed54966f847b99b193897e' inode '2195581525475428613'
+2020-10-08 10:00:42,234 DEBUG: fetched: [('1527499899616598016', '107', '6d1f2accabed54966f847b99b193897e', '1602122441853730048')]
+2020-10-08 10:00:42,236 DEBUG: Assuming 'C:\JenkinsSlave\A\.dvc\cache\c1\774c8f687657c2b94d04ffa1354a72' is unchanged since it is read-only
+2020-10-08 10:00:42,242 DEBUG: Skipping copying for 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Result.jpg', since it is not a symlink or a hardlink.
+2020-10-08 10:00:42,246 DEBUG: Path 'SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Result.jpg' inode '2278235484665303995'
+2020-10-08 10:00:42,248 DEBUG: fetched: []
+2020-10-08 10:00:42,251 DEBUG: Path '.dvc\cache\c1\774c8f687657c2b94d04ffa1354a72' inode '2278235484689770024'
+2020-10-08 10:00:42,253 DEBUG: fetched: [('1418306404687618048', '576710', 'c1774c8f687657c2b94d04ffa1354a72', '1602122441911727360')]
+2020-10-08 10:00:42,255 DEBUG: cache 'C:\JenkinsSlave\A\.dvc\cache\ba\0faa5f5464fde0e583677c6ef568c9' expected 'HashInfo(name='md5', value='ba0faa5f5464fde0e583677c6ef568c9', dir_info=None)' actual 'None'
+2020-10-08 10:00:42,292 DEBUG: Removing 'C:\JenkinsSlave\A\SingleTightSmallDeformation\Test2\LOGI0013_bar_t001\Thumbs.db.ArhX5qkgGTPNUezaxKbDSL.tmp'
+Adding...
+2020-10-08 10:00:42,309 DEBUG: fetched: [(78,)]
+2020-10-08 10:00:42,341 ERROR: unexpected error - File WindowsPathInfo: '.dvc\cache\ba\0faa5f5464fde0e583677c6ef568c9' copy failed, error: Access is denied.
+------------------------------------------------------------
+Traceback (most recent call last):
+  File "dvc\main.py", line 76, in main
+  File "dvc\command\add.py", line 22, in run
+  File "dvc\repo\__init__.py", line 51, in wrapper
+  File "dvc\repo\scm_context.py", line 4, in run
+  File "dvc\repo\add.py", line 96, in add
+  File "site-packages\funcy\decorators.py", line 39, in wrapper
+  File "dvc\stage\decorators.py", line 36, in rwlocked
+  File "site-packages\funcy\decorators.py", line 60, in __call__
+  File "dvc\stage\__init__.py", line 421, in commit
+  File "dvc\output\base.py", line 286, in commit
+  File "dvc\cache\base.py", line 330, in save
+  File "dvc\cache\base.py", line 337, in _save
+  File "dvc\cache\base.py", line 312, in _save_dir
+  File "dvc\cache\base.py", line 206, in _save_file
+  File "dvc\cache\base.py", line 152, in link
+  File "dvc\cache\base.py", line 159, in _link
+  File "dvc\remote\slow_link_detection.py", line 37, in wrapper
+  File "dvc\cache\base.py", line 177, in _try_links
+  File "dvc\cache\base.py", line 193, in _do_link
+  File "dvc\tree\local.py", line 186, in copy
+  File "dvc\system.py", line 32, in copy
+  File "site-packages\speedcopy\__init__.py", line 302, in copyfile
+OSError: File WindowsPathInfo: '.dvc\cache\ba\0faa5f5464fde0e583677c6ef568c9' copy failed, error: Access is denied.
+------------------------------------------------------------
+
+Having any troubles? Hit us up at https://dvc.org/support, we are always happy to help!
+DVC version: 1.7.0 (exe)
+---------------------------------
+Platform: Python 3.7.5 on Windows-10-10.0.17134-SP0
+Supports: All remotes
+Cache types: hardlink
+Cache directory: NTFS on C:\
+Workspace directory: NTFS on C:\
+Repo: dvc, git
+2020-10-08 10:00:44,336 DEBUG: Analytics is enabled.
+2020-10-08 10:00:44,625 DEBUG: Trying to spawn '['daemon', '-q', 'analytics', 'C:\\Users\\aeezpan\\AppData\\Local\\Temp\\tmpjwb4legw']'
+2020-10-08 10:00:48,501 DEBUG: Spawned '['daemon', '-q', 'analytics', 'C:\\Users\\aeezpan\\AppData\\Local\\Temp\\tmpjwb4legw']'
+
+C:\JenkinsSlave\A>
