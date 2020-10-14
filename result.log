@@ -1,0 +1,8 @@
+2020-10-14 17:36:18,030 DEBUG: Check for update is enabled.
+2020-10-14 17:36:18,194 DEBUG: Trying to spawn '['daemon', '-q', 'updater']'
+2020-10-14 17:36:27,743 DEBUG: Spawned '['daemon', '-q', 'updater']'
+2020-10-14 17:36:27,762 DEBUG: fetched: [(3,)]
+2020-10-14 17:36:58,598 DEBUG: fetched: [(32320,)]
+2020-10-14 17:36:58,624 DEBUG: Analytics is enabled.
+2020-10-14 17:36:58,717 DEBUG: Trying to spawn '['daemon', '-q', 'analytics', 'C:\\Users\\aeezpan\\AppData\\Local\\Temp\\tmp1ur7johu']'
+2020-10-14 17:37:03,065 DEBUG: Spawned '['daemon', '-q', 'analytics', 'C:\\Users\\aeezpan\\AppData\\Local\\Temp\\tmp1ur7johu']'
